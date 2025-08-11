@@ -257,7 +257,7 @@
             //int target = Convert.ToInt32(Console.ReadLine());
             //
             //List<int> list = new List<int>();
-            //foreach (int item in SortedSet)
+            //foreach (int item in SortedSet) 
             //{
             //    if (item > target) list.Add(item);
             //}
